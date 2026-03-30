@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/expense-management-and-analytics-system-250556-250570/expense_api"
+}
